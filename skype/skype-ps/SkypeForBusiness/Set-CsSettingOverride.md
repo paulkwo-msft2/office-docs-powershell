@@ -6,9 +6,13 @@ Locale: en-US
 manager: paulkwo
 Module Name: SkypeForBusiness
 ms.author: paulkwo
+ms.reviewer: paulkwo
 online version: https://learn.microsoft.com/powershell/module/skypeforbusiness/set-cssettingoverride
 schema: 2.0.0
 title: Set-CsSettingOverride
+description: New PS command and document
+#customer intent: Learn how to use the new PS Cmdlet
+ms.date: 11/16/2026
 ---
 
 # Set-CsSettingOverride
